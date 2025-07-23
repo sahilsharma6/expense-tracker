@@ -9,10 +9,7 @@ connectDB();
 
 app.use(
   cors({
-    origin: [
-      `${config.FRONTEND_URL} || http://localhost:5173`,
-      "http://localhost:5173",
-    ],
+    origin: [`${config.FRONTEND_URL}`],
     credentials: true,
   })
 );
