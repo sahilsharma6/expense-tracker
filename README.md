@@ -72,7 +72,7 @@ cd expense-tracker
 cd backend
 npm install
 
-Create config/config.env
+Create .env
 
 PORT=3000
 MONGO_URI=mongodb://localhost:27017/expense-tracker
