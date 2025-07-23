@@ -1,5 +1,6 @@
 import { config as conf } from "dotenv";
-conf({ path: "./config/config.env" });
+// conf({ path: "./config/config.env" });
+conf({ path: "./.env" });
 
 const config = {
   PORT: process.env.PORT,
