@@ -1,5 +1,5 @@
 ### 🚀 Live Demo
-[![Live Demo](https://rosybrown-fish-750672.hostingersite.com/login)
+https://rosybrown-fish-750672.hostingersite.com/login
 
 
 💼 Expense Tracker – Pocketrocket Labs Take-Home Assignment
