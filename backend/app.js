@@ -31,6 +31,7 @@ app.use("/api", auditLogsRoutes);
 app.use(notFound);
 app.use(errorHandler);
 
+console.log(config.FRONTEND_URL);
 const port = config.PORT;
 app.listen(port, () => {
   console.log(`server runming on http://localhost:${port}`);
