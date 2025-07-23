@@ -93,7 +93,7 @@ cd ../frontend
 npm install
 npm run dev
 
-Unit Tests Will push soon
+Unit Tests Will push soon 🔜
 
 📸 Screenshots
 
