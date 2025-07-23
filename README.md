@@ -93,7 +93,8 @@ Unit Tests Will push soon
 
 📸 Screenshots
 
-(Add screenshots of each page: login, employee dashboard, admin dashboard with charts, audit log view)
+<img width="1725" height="786" alt="image" src="https://github.com/user-attachments/assets/227ae5da-98df-442c-b006-f281edbaf761" />
+
 
 📬 Contact
 
